@@ -1,0 +1,15 @@
+# Ejecutables y binarios
+*.exe
+*.so
+*.dll
+*.o
+
+# Archivos generados temporalmente por el precompilador OCESQL
+*.c
+*.h
+*.cob
+*.bnd
+
+# Archivos de entorno IDE y logs
+.vscode/
+*.log
